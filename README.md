@@ -62,7 +62,7 @@ Most e-commerce search bars only accept rigid filters. This project lets shopper
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/tiknaavenger/E_Commerce_Chatbot.git
+   git clone https://github.com/MindMatrixPro/E_Commerce_Chatbot.git
    cd "E-Commerce Chat bot"
    ```
 
